@@ -4,7 +4,7 @@ Traffic sign recognition (TSR) is getting one of the standards of the newest car
 
 The algorithm I developed is able to read the time limitations beneath the speed limit sign while driving. It can differentiate the small differences between time limitations such as in '22-5h' and '22-6h'. This algorithm consist of a machine learning algorithm + some observations + basic mathematics.
 
-There is no limitation for the resolutions of the video or image. With high resolution, it is possible to get more detection but this increases computational cost little. This is the main advantage of the algorithm. Computational cost of one detection for an image with size, for example, 720x920 might be less than the computational cost for an image with size , for example, 2000x2500.    
+There is no limitation for the resolutions of the video or image. With high resolution, it is possible to get more detection but this increases computational cost little. This is the main advantage of the algorithm. Computational cost of one detection for an image with size, for example, 720x920 might be larger than the computational cost for an image of size , for example, 2000x2500.    
 
 
 The video below shows the success of the algorithm with various time limitations.    
