@@ -20,6 +20,19 @@ When the algorithm produces an outcome, it gives the correct one. More precisely
 https://user-images.githubusercontent.com/100349023/227057961-8455a7f1-f6b4-4f85-bf0a-c3e219835fb6.mp4
 
 
+Another difficulty in detecting sign speed accurs while driving with high speed. The algorithm is able to detect the speed limit correctly emough times. The following video was captured while driving around 80 km/h. The original video has the following properties. Dimensions: 1920 × 1080, fps: 30.  The speed limit 80 was detected 19 times.
+
+
+
+https://user-images.githubusercontent.com/100349023/227689202-c34b054e-e340-4c63-b694-3d8ee23b5027.mp4
+
+The algorithm was also tested for the speed limit 120. The following video was captured while driving around 120 km/h. The original video has the following properties. Dimensions: 1920 × 1080, fps: 30. The speed limit 120 was detected 13 times.
+
+
+
+
+https://user-images.githubusercontent.com/100349023/227689276-b0c92516-df91-4c6d-a262-9c6f3045e5bb.mp4
+
 
 
 I am eager to implement my algorithm on real cars and I am open to new opportunuties to do this. 
