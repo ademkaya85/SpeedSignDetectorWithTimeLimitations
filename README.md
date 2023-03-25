@@ -20,7 +20,7 @@ When the algorithm produces an outcome, it gives the correct one. More precisely
 https://user-images.githubusercontent.com/100349023/227057961-8455a7f1-f6b4-4f85-bf0a-c3e219835fb6.mp4
 
 
-Another difficulty in detecting sign speed accurs while driving with high speed. The algorithm is able to detect the speed limit correctly emough times. The following video was captured while driving around 80 km/h. The original video has the following properties. Dimensions: 1920 × 1080, fps: 30.  The speed limit 80 was detected 19 times.
+Another difficulty in detecting sign speed accurs while driving with high speed. The algorithm is able to detect the speed limit correctly enough times. The following video was captured while driving around 80 km/h. The original video has the following properties. Dimensions: 1920 × 1080, fps: 30.  The speed limit 80 was detected 19 times.
 
 
 
